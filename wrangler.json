@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "resend", 
+  "name": "resend2", 
   "main": "worker.js",
   "compatibility_date": "2026-05-27"
 }
