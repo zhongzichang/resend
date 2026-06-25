@@ -5,7 +5,7 @@ Single Cloudflare Worker that exposes one POST endpoint to send email via the Re
 
 ## Entrypoint
 - `worker.js` — the only application file.
-- `wrangler.json` configures `main: "worker.js"`, `name: "resend"`, compatibility date `2026-05-27`.
+- `wrangler.json` configures `main: "worker.js"`, `name: "resend2"`, compatibility date `2026-05-27`.
 
 ## Dependencies / tooling
 - Runtime packages: `resend`.
